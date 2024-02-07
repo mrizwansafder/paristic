@@ -49,6 +49,10 @@ class MainActivity2 : AppCompatActivity() {
         binding.boxThreeText.setBackgroundResource(R.color.my_red)
     }
 
+
+
+
+
     private fun makeYellow() {
         binding.boxFourText.setBackgroundResource(R.color.my_yellow)
     }
